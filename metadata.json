@@ -1,0 +1,5 @@
+{
+  "name": "Smart Grade AI",
+  "description": "Handwritten report OCR and automated generous grading system using Gemini 2.5.",
+  "requestFramePermissions": []
+}
